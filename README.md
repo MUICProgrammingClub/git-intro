@@ -27,3 +27,9 @@
 $ git commit --help
 $ git help commit
 ```
+
+
+![alt text](https://raw.githubusercontent.com/resbaz/lessons/master/git/git-local.png)
+
+
+![alt text](https://raw.githubusercontent.com/resbaz/lessons/master/git/git-remote.png)
