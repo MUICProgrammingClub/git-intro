@@ -3,7 +3,7 @@
 ## To Do (Basic)
 - Setting Identity
   - `git config --global user.name "<Firstname> <Lastname>"`
-  - `git config --global user.email <your@email.com>`
+  - `git config --global user.email "<your@email.com>"`
   - `git config --list`
 - Initialize repository: `git init`
 - Clone repository: `git clone`
@@ -19,6 +19,7 @@
 - Create new branch and checkout to that branch: `git checkout -b <branch name>`
 - List all remotes: `git remote -v`
 - Using `.gitignore`
+- Fix conflicts
 
 ## Getting Help
 ```
