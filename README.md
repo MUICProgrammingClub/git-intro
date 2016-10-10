@@ -19,6 +19,7 @@
 - Create new branch and checkout to that branch: `git checkout -b <branch name>`
 - List all remotes: `git remote -v`
 - Using `.gitignore`
+- Merge branch: `git merge <branch to merge>`
 - Fix conflicts
 
 ## Getting Help
